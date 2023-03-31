@@ -121,3 +121,11 @@ nav ul{
 li:hover .drop{
     display: flex;
 }
+
+#dd{
+    width: 134px;
+}
+
+#dd2{
+    width: 153px;
+}
